@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x -current_working_directory
+pwd ./ -current_working_directory
